@@ -1,24 +1,22 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+
 
 Things you may want to cover:
 
-* Ruby version
+* ruby 2.5.1
 
-* System dependencies
+* gemfiles
 
-* Configuration
+* Configuration SQLite3 DB
 
-* Database creation
+* rails db:seed
 
-* Database initialization
+* rails db:migrate
 
-* How to run the test suite
+* SWe recommend you to test seed with SQLiteStudio
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Made with love by THP GRENOBLE :
+BALLU Tom;
+BERTIN Nicolas;
+BOURGOIN Ludovic;
